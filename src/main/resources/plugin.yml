@@ -1,0 +1,10 @@
+name: Lag
+version: 1.0.0
+description: WorldSMP anti-lag plugin.
+author: Spacey
+main: com.theworldsmp.lag.Lag
+api-version: 1.14
+commands:
+  lag:
+    aliases: [memory, entities]
+    description: Show TPS, memory and entity info
